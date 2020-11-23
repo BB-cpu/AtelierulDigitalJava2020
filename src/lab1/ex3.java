@@ -2,7 +2,7 @@ package lab1;
 import java.util.Arrays;
 public class ex3 {
     public static void main(String[] args) {
-        int[] anArray = {3, 2, -3, -2, 3, 0};
+        int[] anArray = {5, -5, -5, 7, -5};
         Arrays.sort(anArray);
 
         System.out.printf("Modified anArray[] : %s",
